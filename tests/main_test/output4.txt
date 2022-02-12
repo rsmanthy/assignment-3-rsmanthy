@@ -1,0 +1,83 @@
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> adding: FLMG (HEAD)
+adding: DLC (prev: FLMG)
+adding: ECOT (prev: DLC)
+adding: CASE (prev: ECOT)
+adding: AERO (prev: CASE)
+adding: RGNT (prev: AERO)
+== CURRENT PATH ==
+FLMG(2) -> DLC(10) -> ECOT(6) -> CASE(5) -> AERO(4) -> RGNT(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> == CURRENT PATH ==
+FLMG(2) -> DLC(10) -> ECOT(6) -> CASE(5) -> AERO(4) -> RGNT(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> Enter a new building name: 
+Enter total room number: 
+Enter the previous building name (or First): 
+adding: CSCI (prev: DLC)
+== CURRENT PATH ==
+FLMG(2) -> DLC(10) -> CSCI(30) -> ECOT(6) -> CASE(5) -> AERO(4) -> RGNT(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> Enter name of the recipient to receive the message: 
+
+FLMG [# messages received: 1] received: available room at FLMG is 2
+DLC [# messages received: 1] received: available room at DLC is 10
+CSCI [# messages received: 1] received: available room at CSCI is 30
+ECOT [# messages received: 1] received: available room at ECOT is 6
+CASE [# messages received: 1] received: available room at CASE is 5
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> Enter a new building name: 
+Enter total room number: 
+Enter the previous building name (or First): 
+adding: EATON (prev: RGNT)
+== CURRENT PATH ==
+FLMG(2) -> DLC(10) -> CSCI(30) -> ECOT(6) -> CASE(5) -> AERO(4) -> RGNT(9) -> EATON(20) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> Quitting...
+Goodbye!

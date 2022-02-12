@@ -1,0 +1,16 @@
+adding: FLMG (HEAD)
+adding: DLC (prev: FLMG)
+adding: ECOT (prev: DLC)
+adding: CASE (prev: ECOT)
+adding: AERO (prev: CASE)
+adding: RGNT (prev: AERO)
+** Default network constructed
+== CURRENT PATH ==
+FLMG(2) -> DLC(10) -> ECOT(6) -> CASE(5) -> AERO(4) -> RGNT(9) -> NULL
+===
+FLMG [# messages received: 1] received: available room at FLMG is 2
+FLMG [# messages received: 2] received: available room at FLMG is 2
+DLC [# messages received: 1] received: available room at DLC is 10
+ECOT [# messages received: 1] received: available room at ECOT is 6
+CASE [# messages received: 1] received: available room at CASE is 5
+AERO [# messages received: 1] received: available room at AERO is 4

@@ -1,0 +1,89 @@
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> adding: FLMG (HEAD)
+adding: DLC (prev: FLMG)
+adding: ECOT (prev: DLC)
+adding: CASE (prev: ECOT)
+adding: AERO (prev: CASE)
+adding: RGNT (prev: AERO)
+== CURRENT PATH ==
+FLMG(2) -> DLC(10) -> ECOT(6) -> CASE(5) -> AERO(4) -> RGNT(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> == CURRENT PATH ==
+FLMG(2) -> DLC(10) -> ECOT(6) -> CASE(5) -> AERO(4) -> RGNT(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> Enter a new building name: 
+Enter total room number: 
+Enter the previous building name (or First): 
+INVALID(previous building name)...Please enter a VALID building name!
+adding: NORLIN (prev: DLC)
+== CURRENT PATH ==
+FLMG(2) -> DLC(10) -> NORLIN(10) -> ECOT(6) -> CASE(5) -> AERO(4) -> RGNT(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> == CURRENT PATH ==
+FLMG(2) -> DLC(10) -> NORLIN(10) -> ECOT(6) -> CASE(5) -> AERO(4) -> RGNT(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> Enter name of the recipient to receive the message: 
+
+FLMG [# messages received: 1] received: available room at FLMG is 2
+DLC [# messages received: 1] received: available room at DLC is 10
+NORLIN [# messages received: 1] received: available room at NORLIN is 10
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> Enter name of the recipient to receive the message: 
+
+FLMG [# messages received: 2] received: available room at FLMG is 2
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Room Info 
+ 4. Add Building 
+ 5. Quit 
++-----------------------+
+#> Quitting...
+Goodbye!
