@@ -32,5 +32,7 @@ class CUSatelliteNetwork {
         CUSatellite* searchForSatellite(string satelliteName);
         void transmitInfo(string receiver);
         void printNetwork();
+        bool isBobNull();
+        string bobTheDiggityDog(string bobthedog);
 };
 #endif
